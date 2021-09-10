@@ -1,2 +1,2 @@
 # BDT
-A detection tool for B_ _ _ _ _ _ _ :)
+A detection tool for B_ _:)
